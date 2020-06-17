@@ -16,7 +16,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 ## Building from source
 To build from source you need to clone the git repo and run docker build:
 ```
-$ git clone https://github.com/wyveo/nginx-php-fpm.git
+$ git clone https://github.com/alexsamofalov/nginx-php-fpm.git
 $ cd nginx-php-fpm
 ```
 
